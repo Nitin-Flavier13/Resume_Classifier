@@ -1,0 +1,13 @@
+pandas
+numpy
+nltk
+scikit-learn
+matplotlib
+seaborn
+xgboost
+wordcloud
+gensim
+python-docx
+pymupdf
+streamlit
+pdfminer.six
